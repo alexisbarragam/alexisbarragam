@@ -1,16 +1,18 @@
-## Hi there 👋
+## Alexis Barragam
 
-<!--
-**alexisbarragam/alexisbarragam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor iOS — Swift / SwiftUI** Estagiando no time mobile da Porto Seguro enquanto finalizo ADS na UNICSUL.
 
-Here are some ideas to get you started:
+Comecei na área por dados (Python, SQL, pipelines ETL) e fui migrando pra mobile quando percebi que queria construir produto, não só analisar. Ainda uso a base analítica, que me ajuda a entender integração de APIs e estrutura de dados no lado do app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Stack & Estudos
+* **Stack atual:** Swift · SwiftUI · UIKit · Xcode · REST APIs · Git
+* **Aprendendo:** MVVM · XCTest · Core Data
+
+---
+
+### 📩 Contato
+📍 São Paulo  
+📧 [barragamalexis@gmail.com](mailto:barragamalexis@gmail.com)  
+🔗 [linkedin.com/in/alexisbarragam](https://linkedin.com/in/alexisbarragam)
