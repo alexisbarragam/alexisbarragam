@@ -1,6 +1,6 @@
 ## Alexis Barragam
 
-**Desenvolvedor iOS — Swift / SwiftUI** Estagiando no time mobile da Porto Seguro enquanto finalizo ADS na UNICSUL.
+**Desenvolvedor iOS — Swift / SwiftUI**
 
 Comecei na área por dados (Python, SQL, pipelines ETL) e fui migrando pra mobile quando percebi que queria construir produto, não só analisar. Ainda uso a base analítica, que me ajuda a entender integração de APIs e estrutura de dados no lado do app.
 
