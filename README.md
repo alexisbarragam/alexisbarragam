@@ -7,7 +7,7 @@ Comecei na área por dados (Python, SQL, pipelines ETL) e fui migrando pra mobil
 ---
 
 ### 🛠 Stack & Estudos
-* **Stack atual:** Swift · SwiftUI · UIKit · Xcode · REST APIs · Git
+* **Stack atual:** Swift · SwiftUI · UIKit · Xcode · REST APIs · Git · Docker
 * **Aprendendo:** MVVM · XCTest · Core Data
 
 ---
