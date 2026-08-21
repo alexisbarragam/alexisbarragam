@@ -2,7 +2,11 @@
 
 **Desenvolvedor iOS — Swift / SwiftUI**
 
-Comecei na área por dados (Python, SQL, pipelines ETL) e fui migrando pra mobile quando percebi que queria construir produto, não só analisar. Ainda uso a base analítica, que me ajuda a entender integração de APIs e estrutura de dados no lado do app.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie e estou direcionando minha carreira para o desenvolvimento de aplicações nativas para o ecossistema Apple.
+
+Antes de direcionar minha carreira para iOS, construí uma base técnica em Python, SQL, Engenharia de Dados, Cloud e Machine Learning. Essa experiência contribui para minha visão de desenvolvimento de software e para a compreensão de dados, APIs e sistemas que dão suporte às aplicações.
+
+Meu objetivo é evoluir profissionalmente como iOS Developer, adquirindo experiência prática, contribuindo em projetos reais e aprofundando meus conhecimentos em Swift, SwiftUI e tecnologias do ecossistema Apple.
 
 ---
 
